@@ -3,7 +3,6 @@
 </p>
 
 
-NestJS API
 
 <p align="center">
   NestJS API
