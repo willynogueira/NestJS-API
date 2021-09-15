@@ -5,10 +5,13 @@
 
 
 <p align="center">
+<<<<<<< HEAD
   NestJS API
 </p>
 
 <p align="center">
+=======
+>>>>>>> ee981491ffdb3b3698a03723b0d53aeea3373d2c
   <img src="https://github.com/willynogueira/NestJS-API/blob/main/Screenshot_1.png" width="700" alt="Nest" />
 </p>
 
